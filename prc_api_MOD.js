@@ -19,7 +19,7 @@ module.exports = {
     name: 'Use the PRC API',
     section: 'JSON Things',
     meta: {
-        version: '1.0.0',
+        version: '2.1.7',
         preciseCheck: false,
         author: 'White_Hat_',
         authorUrl: 'https://github.com/CoolWhiteHat/',
